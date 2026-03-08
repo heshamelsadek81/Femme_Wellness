@@ -1,0 +1,8 @@
+# apphosting.yaml
+# Defines how Firebase App Hosting should serve your application.
+# For serving static files, you typically point to a directory
+# containing your static assets.
+staticContent:
+  # This tells App Hosting to serve static content directly from the root
+  # of your repository.
+  source: "."
